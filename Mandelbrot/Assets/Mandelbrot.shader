@@ -49,7 +49,7 @@ Shader "Explorer/Mandelbrot"
 
             fixed4 frag (v2f i) : SV_Target
             {
-                bool mandel = false;
+                bool mandel = true;
                 float2 c = _Area.xy + (i.uv-.5)*_Area.zw;
                 float2 z = mandel ? _Other.xy: c;
                 float2 zold;
