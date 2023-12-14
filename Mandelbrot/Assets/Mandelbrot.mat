@@ -70,7 +70,7 @@ Material:
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _Inf: 0
-    - _Ite: 52
+    - _Ite: 50
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -82,8 +82,8 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Area: {r: -0.48693454, g: 0, b: 0.8273603, a: 0.67951065}
+    - _Area: {r: 0, g: 0, b: 4, a: 3.2851985}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Other: {r: 0.26000023, g: 0, b: 0, a: 0}
+    - _Other: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
